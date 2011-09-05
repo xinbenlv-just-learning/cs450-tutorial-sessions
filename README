@@ -1,0 +1,20 @@
+1.Create an Android Project
+	Menu: File->New->Project
+	From "Android" Select Android Project
+	[Picture 1]
+	Type in the "Project Name" with HelloMyCS450
+	In "Build Target" Select "Android 2.2"
+	Scroll Down the Window
+	In "Properties" fill in "Package name" with "com.example"
+	Click on "Finish"
+2.Run an Android
+	In Java Perspective, "Package Explorer"
+	Select "HelloMyCS450" that we just created
+	[Picture 4]
+	Click on "run"
+	[Picture 5]
+	Run-as: select "Android Application", click on OK
+3.How to import a existing Android project
+	In Java Perspective, Menu: File->Import
+	In Window titled "Select" select "General->Existing Project into Workspace", Click on "Next"
+	In "Select Root root directory" click on Browse and select the project your want to import. Click on "Finish"
